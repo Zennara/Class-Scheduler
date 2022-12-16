@@ -1,0 +1,54 @@
+{
+  "major":
+  [
+    "IS 120",
+    "IS 260",
+    "CIS 129",
+    "BADM 384",
+    "CSCI 159",
+    "CIS 111",
+    "CIS 112",
+    "CIS 113",
+    "CSCI 319",
+    [
+      "OR",
+      [
+        "CSCI 139",
+        "CIS 201",
+        "CIS 241",
+        "CSCI 331",
+        "CSCI 351",
+        "CIS 469"
+      ],
+      [
+        "CSCI 139",
+        "CSCI 331",
+        "CIS 201",
+        "CSCI 431",
+        "IS 140",
+        "BADM 324",
+        "CSCI 351"
+      ],
+      [
+        "CSCI 120",
+        "CSCI 149",
+        "CSCI 169",
+        "CSCI 351",
+        "CSCI 439",
+        "CIS 469"
+      ]
+    ]
+  ],
+
+  "minor":
+  [
+    "IS 120",
+    "IS 260",
+    "BADM 384",
+    "CIS 111",
+    "CIS 112",
+    "CIS 113",
+    "CSCI 159",
+    "CSCI 319"
+  ]
+}

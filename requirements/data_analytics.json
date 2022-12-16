@@ -1,0 +1,28 @@
+{
+  "major":
+  [
+    "CSCI 120",
+    "MATH 181",
+    "MATH 182",
+    "MATH 291",
+    "MATH 451",
+    "MATH 461",
+    "CSCI 149",
+    "CSCI 159",
+    "CSCI 169",
+    "CSCI 319",
+    "CIS 113",
+    "MATH 350",
+    "CSCI 422"
+  ],
+
+  "minor":
+  [
+    "CSCI 120",
+    "MATH 211",
+    "CIS 113",
+    "CSCI 149",
+    "CSCI 319",
+    "MATH 350"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "credits": 124,
+  "literacy": [
+    "ENG-101",
+    "INDS-101",
+    [
+      "OR",
+      "MATH 142",
+      [
+        "ANY",
+        "CALC"
+      ]
+    ],
+    [
+      "ANY",
+      "LAB"
+    ]
+  ]
+}

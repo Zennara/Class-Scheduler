@@ -1,0 +1,45 @@
+{
+  "major":
+  [
+    "MATH 181",
+    "MATH 182",
+    "MATH 211",
+    "MATH 221",
+    "CSCI 109",
+    "CSCI 159",
+    "CSCI 169",
+    "CSCI 269",
+    "CSCI 319",
+    [
+      "OR",
+      "CSCI 347",
+      "CSCI 369"
+    ],
+    "CSCI 419",
+    "CSCI 427",
+    "CSCI 300+"
+  ],
+  
+  "minor":
+  [
+    "MATH 221",
+    "CSCI 109",
+    "CSCI 159",
+    "CSCI 169",
+    "CSCI 419",
+    [
+      "OR",
+      "CSCI 269",
+      "CSCI 347",
+      "CSCI 369",
+      "CSCI 427"
+    ],
+    [
+      "OR",
+      "CIS 469",
+      "CSCI 139",
+      "CSCI 319",
+      "CSCI 439"
+    ]
+  ]
+}
